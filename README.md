@@ -8,11 +8,7 @@ This repository contains lab programs for **MCA Semester 3**, organized into two
 
 ---
 
-## 🔬 Minor Project
 
-📁 Project Repository: [`PROJECT-1`](https://github.com/muralikrishna-cec/PROJECT-1)  
-
----
 
 ## 📁 Folder Structure
 
