@@ -4,7 +4,7 @@ This repository contains lab programs for **MCA Semester 3**, organized into two
 
 - 📊 Data Science & Machine Learning using Python (Jupyter Notebook)
 - 📱 Mobile Application Development using Java (Android Studio)
-- A separate **minor project** is maintained in another repository named `PROJECT-1`
+
 
 ---
 
@@ -25,8 +25,7 @@ MCA-S3/
 │   ├── CYCLE-2/
 │   ├── CYCLE-3/
 │   ├── CYCLE-4/
-│   ├── FULL-FILE     # Consolidated version of all programs
-│   └── dependency.txt # Notes on handling NullPointerException, etc.
+
 
 ```
 
@@ -55,7 +54,7 @@ MCA-S3/
   - UI Components: Buttons, EditText, RecyclerView, etc.
   - Event Handling and Navigation
   - SharedPreferences & SQLite Storage
-  - Exception Handling (NullPointerException notes in `dependency.txt`)
+  - Exception Handling 
 
 ---
 
