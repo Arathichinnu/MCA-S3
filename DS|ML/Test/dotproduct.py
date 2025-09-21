@@ -33,7 +33,6 @@ def dot_product(A, B):
         result.append(row)
     return result
 
-
 # ---------- Run the code ----------
 print("Matrix A:")
 A = read_matrix()
